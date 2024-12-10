@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi Kumar Periketi</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">Proactive and skilled Python Developer and Machine Learning Engineer with a strong foundation in programming, deep learning, and NLP. Experienced in building and deploying ML models and web applications using Python, Flask, and Django. Successfully executed projects like sentiment analysis, story generation, image classification, and spam detection using advanced frameworks such as TensorFlow and scikit-learn. Adept at integrating ML algorithms for practical solutions, demonstrating strong problem-solving and teamwork abilities. Enthusiastic about applying expertise to drive innovation and impactful results.</h3>
 
 - 🌱 I’m currently learning **React-JS,Machine Learning and Deep Learning Algorithms.**
 
